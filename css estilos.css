@@ -1,0 +1,28 @@
+body{
+    background:#9804ff;
+    font-family:castellar
+    }
+    #menu{
+    background:green;  
+    }
+    .menu ul{
+    display:flex;  
+    justify-content:space-around;
+    }
+    .menu li{
+    list-style:none  
+    }
+    a{
+      color:real;
+      text-decoration:none
+    }
+    a:hover{
+      text-decoration:underline
+    }
+    .site-title{
+    color:whitesmoke;
+    text-align:center;
+    }
+    .site-subtitle{
+    font-style:italic;  
+    }
